@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="研究的技术路径" id="0">
-    <mxGraphModel dx="1167" dy="1638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="2800" math="0" shadow="0">
+    <mxGraphModel dx="676" dy="948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="2800" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,7 +65,7 @@
           <mxGeometry x="520" y="490" width="170" height="48" as="geometry" />
         </mxCell>
         <mxCell id="s2_3" value="风险暴露指标构建&#xa;Level / Distribution / Shock Exposure" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" parent="1" vertex="1">
-          <mxGeometry x="320" y="570" width="300" height="66" as="geometry" />
+          <mxGeometry x="325" y="590" width="300" height="66" as="geometry" />
         </mxCell>
         <mxCell id="s2_4" value="指标有效性检验" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" parent="1" vertex="1">
           <mxGeometry x="395" y="665" width="150" height="40" as="geometry" />
