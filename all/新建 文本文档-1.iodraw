@@ -136,7 +136,7 @@
         <mxCell id="stage4_box" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 4;strokeColor=#000000;fillColor=none;strokeWidth=1.2;" parent="1" vertex="1">
           <mxGeometry x="150" y="1230" width="640" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="s4_0" value="风险传导分析（第三章）" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" parent="1" vertex="1">
+        <mxCell id="s4_0" value="风险传导分析" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" parent="1" vertex="1">
           <mxGeometry x="345" y="1260" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s4_1" value="子公司—母公司层级结构建模" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" parent="1" vertex="1">
@@ -163,7 +163,7 @@
         <mxCell id="stage5_box" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 4;strokeColor=#000000;fillColor=none;strokeWidth=1.2;" parent="1" vertex="1">
           <mxGeometry x="150" y="1640" width="640" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="s5_0" value="风险预测模型（第四章）" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" parent="1" vertex="1">
+        <mxCell id="s5_0" value="风险预测模型" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" parent="1" vertex="1">
           <mxGeometry x="335" y="1670" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s5_1" value="样本构建与数据处理" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" parent="1" vertex="1">
