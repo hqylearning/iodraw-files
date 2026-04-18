@@ -67,11 +67,8 @@
         <mxCell id="s2_3" value="风险暴露指标构建&#xa;Level / Distribution / Shock Exposure" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" parent="1" vertex="1">
           <mxGeometry x="320" y="570" width="300" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="s2_4" value="特征工程" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" parent="1" vertex="1">
+        <mxCell id="s2_4" value="指标有效性检验" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" parent="1" vertex="1">
           <mxGeometry x="395" y="665" width="150" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="s2_5" value="指标权重确定" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" parent="1" vertex="1">
-          <mxGeometry x="380" y="720" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="e_s2_1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.2;" parent="1" source="s2_0" target="s2_1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -88,8 +85,10 @@
         <mxCell id="e_s2_5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.2;" parent="1" source="s2_3" target="s2_4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e_s2_6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.2;" parent="1" source="s2_4" target="s2_5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="e_s2_6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.2;" parent="1" source="s2_4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="720" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="stage3_label" value="第三阶段" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;rounded=1;arcSize=12;strokeColor=#7F7F7F;fillColor=#D9D9D9;strokeWidth=1.2;" parent="1" vertex="1">
           <mxGeometry x="15" y="930" width="90" height="40" as="geometry" />
