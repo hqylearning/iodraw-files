@@ -53,7 +53,7 @@
           <mxGeometry x="15" y="470" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="stage2_box" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 4;strokeColor=#000000;fillColor=none;strokeWidth=1.2;" parent="1" vertex="1">
-          <mxGeometry x="150" y="380" width="640" height="380" as="geometry" />
+          <mxGeometry x="150" y="380" width="640" height="350" as="geometry" />
         </mxCell>
         <mxCell id="s2_0" value="基于子公司遥感数据的企业风险暴露指标构建" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" parent="1" vertex="1">
           <mxGeometry x="300" y="410" width="340" height="40" as="geometry" />
@@ -84,11 +84,6 @@
         </mxCell>
         <mxCell id="e_s2_5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.2;" parent="1" source="s2_3" target="s2_4" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="e_s2_6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.2;" parent="1" source="s2_4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="470" y="720" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="stage3_label" value="第三阶段" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;rounded=1;arcSize=12;strokeColor=#7F7F7F;fillColor=#D9D9D9;strokeWidth=1.2;" parent="1" vertex="1">
           <mxGeometry x="15" y="930" width="90" height="40" as="geometry" />
