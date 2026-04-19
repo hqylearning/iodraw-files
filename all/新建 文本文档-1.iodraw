@@ -65,7 +65,7 @@
           <mxGeometry x="620" y="490" width="150" height="48" as="geometry" />
         </mxCell>
         <mxCell id="s2_3" value="风险暴露指标构建&#xa;Level / Distribution / Shock Exposure" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" parent="1" vertex="1">
-          <mxGeometry x="325" y="580" width="300" height="56" as="geometry" />
+          <mxGeometry x="325" y="550" width="265" height="56" as="geometry" />
         </mxCell>
         <mxCell id="s2_4" value="指标有效性检验" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" parent="1" vertex="1">
           <mxGeometry x="400" y="680" width="150" height="40" as="geometry" />
@@ -79,7 +79,7 @@
         <mxCell id="e_s2_3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="s2_1" target="s2_3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e_s2_4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.2;" parent="1" source="s2_2" target="s2_3" edge="1">
+        <mxCell id="e_s2_4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.2;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="s2_2" target="s2_3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e_s2_5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.2;" parent="1" source="s2_3" target="s2_4" edge="1">
