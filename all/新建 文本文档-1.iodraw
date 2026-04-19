@@ -249,8 +249,8 @@
             <mxPoint x="540" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1sMB681q1mOf7BqiFLuc-14" value="基准回归模型" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" vertex="1" parent="1">
-          <mxGeometry x="405" y="770" width="150" height="48" as="geometry" />
+        <mxCell id="1sMB681q1mOf7BqiFLuc-14" value="稳健性检验" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" vertex="1" parent="1">
+          <mxGeometry x="405" y="900" width="150" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
