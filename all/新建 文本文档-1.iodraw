@@ -1,11 +1,11 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="研究的技术路径" id="0">
-    <mxGraphModel dx="642" dy="1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="2800" math="0" shadow="0">
+    <mxGraphModel dx="2387" dy="5374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="2800" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="1sMB681q1mOf7BqiFLuc-26" value="" style="group;fontSize=14;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="15" y="53" width="1115" height="1807" as="geometry" />
+          <mxGeometry x="-10" y="-40" width="1115" height="1807" as="geometry" />
         </mxCell>
         <mxCell id="title" value="研究的技术路径" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeColor=#7F7F7F;fillColor=#D9D9D9;strokeWidth=1.2;fontStyle=1;fontSize=16;" parent="1sMB681q1mOf7BqiFLuc-26" vertex="1">
           <mxGeometry x="525.1290322580645" width="258.9677419354839" height="48.428810720268004" as="geometry" />
