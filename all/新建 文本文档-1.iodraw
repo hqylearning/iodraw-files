@@ -94,9 +94,6 @@
         <mxCell id="s3_0" value="因果识别与机制分析" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="315" y="722" width="310" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="s3_1" value="基准回归模型" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" parent="1" vertex="1">
-          <mxGeometry x="200" y="802" width="150" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="s3_2" value="DID / IV方法" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" parent="1" vertex="1">
           <mxGeometry x="560" y="810" width="150" height="48" as="geometry" />
         </mxCell>
@@ -115,10 +112,10 @@
         <mxCell id="e_s3_2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.2;" parent="1" source="s3_0" target="s3_2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e_s3_3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.2;" parent="1" source="s3_1" target="s3_3" edge="1">
+        <mxCell id="e_s3_3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.2;" parent="1" source="1sMB681q1mOf7BqiFLuc-4" target="s3_3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e_s3_4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.2;" parent="1" source="s3_2" target="s3_4" edge="1">
+        <mxCell id="e_s3_4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.2;" parent="1" source="s3_1" target="s3_4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e_s3_5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.2;" parent="1" source="s3_2" target="s3_5" edge="1">
@@ -257,6 +254,24 @@
             <mxPoint x="60" y="1750" as="sourcePoint" />
             <mxPoint x="60" y="2160" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="1sMB681q1mOf7BqiFLuc-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.2;" edge="1" parent="1" source="s3_2" target="s3_1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="834" as="sourcePoint" />
+            <mxPoint x="465" y="902" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3_1" value="基准回归模型" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" parent="1" vertex="1">
+          <mxGeometry x="395" y="790" width="150" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="1sMB681q1mOf7BqiFLuc-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.2;" edge="1" parent="1" source="s3_1" target="1sMB681q1mOf7BqiFLuc-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395" y="814" as="sourcePoint" />
+            <mxPoint x="265" y="902" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1sMB681q1mOf7BqiFLuc-4" value="基准回归模型" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" vertex="1" parent="1">
+          <mxGeometry x="220" y="800" width="150" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
