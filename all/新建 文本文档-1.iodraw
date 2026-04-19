@@ -103,7 +103,7 @@
           <mxGeometry x="315" y="722" width="310" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s3_2" value="DID / IV方法" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" parent="1" vertex="1">
-          <mxGeometry x="560" y="810" width="150" height="48" as="geometry" />
+          <mxGeometry x="625" y="800" width="150" height="48" as="geometry" />
         </mxCell>
         <mxCell id="s3_3" value="经营波动机制" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" parent="1" vertex="1">
           <mxGeometry x="190" y="902" width="150" height="48" as="geometry" />
@@ -291,7 +291,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1sMB681q1mOf7BqiFLuc-4" value="基准回归模型" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" vertex="1" parent="1">
-          <mxGeometry x="395" y="810" width="150" height="48" as="geometry" />
+          <mxGeometry x="585" y="990" width="150" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
