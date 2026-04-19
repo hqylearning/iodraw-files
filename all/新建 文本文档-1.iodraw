@@ -128,7 +128,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="stage5_label" value="第五阶段" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;rounded=1;arcSize=12;strokeColor=#7F7F7F;fillColor=#D9D9D9;strokeWidth=1.2;" parent="1" vertex="1">
-          <mxGeometry x="75" y="1580" width="90" height="40" as="geometry" />
+          <mxGeometry x="15" y="1720" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="stage5_box" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 4;strokeColor=#000000;fillColor=none;strokeWidth=1.2;" parent="1" vertex="1">
           <mxGeometry x="150" y="1298" width="640" height="352" as="geometry" />
@@ -236,9 +236,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="left_6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.8;exitX=0.498;exitY=1.151;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="stage5_label">
+        <mxCell id="left_6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.8;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="60" y="1750" as="sourcePoint" />
+            <mxPoint x="60" y="1790" as="sourcePoint" />
             <mxPoint x="60" y="2160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
