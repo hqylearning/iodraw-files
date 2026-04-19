@@ -23,7 +23,7 @@
           <mxGeometry x="600" y="130" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s1_3" value="确定研究内容" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" parent="1" vertex="1">
-          <mxGeometry x="385" y="190" width="180" height="40" as="geometry" />
+          <mxGeometry x="370" y="190" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s1_4" value="基于子公司遥感数据的企业风险暴露指标体系" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" parent="1" vertex="1">
           <mxGeometry x="185" y="260" width="165" height="48" as="geometry" />
