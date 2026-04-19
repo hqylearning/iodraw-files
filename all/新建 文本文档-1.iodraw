@@ -130,6 +130,9 @@
         <mxCell id="stage5_label" value="第五阶段" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;rounded=1;arcSize=12;strokeColor=#7F7F7F;fillColor=#D9D9D9;strokeWidth=1.2;fontSize=16;fontStyle=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="-10" y="1323.5159128978225" width="129.48387096774195" height="40.35734226689001" as="geometry" />
         </mxCell>
+        <mxCell id="1sMB681q1mOf7BqiFLuc-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="stage5_box" target="s6_2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="stage5_box" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 4;strokeColor=#000000;fillColor=none;strokeWidth=1.2;fontSize=16;fontStyle=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="184.23" y="1166.12" width="920.77" height="342.88" as="geometry" />
         </mxCell>
@@ -163,8 +166,13 @@
         <mxCell id="stage6_label" value="第六阶段" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;rounded=1;arcSize=12;strokeColor=#7F7F7F;fillColor=#D9D9D9;strokeWidth=1.2;fontSize=16;fontStyle=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="-10" y="1597.106644332775" width="129.48387096774195" height="40.35734226689001" as="geometry" />
         </mxCell>
+        <mxCell id="1sMB681q1mOf7BqiFLuc-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="stage6_box">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="644.5555555555554" y="1520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="stage6_box" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 4;strokeColor=#000000;fillColor=none;strokeWidth=1.2;fontSize=16;fontStyle=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="184.2258064516129" y="1536.57063093244" width="920.7741935483871" height="161.42936906756003" as="geometry" />
+          <mxGeometry x="184.23" y="1540" width="920.77" height="158" as="geometry" />
         </mxCell>
         <mxCell id="s6_0" value="政策建议" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;strokeColor=default;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=#E6E6E6;fontStyle=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="522.3225806451613" y="1550.6957007258516" width="244.58064516129033" height="40.35734226689001" as="geometry" />
