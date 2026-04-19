@@ -104,7 +104,7 @@
           <mxGeometry x="-10" y="984.3266331658292" width="129.48387096774195" height="40.35734226689001" as="geometry" />
         </mxCell>
         <mxCell id="stage4_box" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 4;strokeColor=#000000;fillColor=none;strokeWidth=1.2;fontSize=16;fontStyle=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="184.23" y="860.23" width="920.77" height="269.77" as="geometry" />
+          <mxGeometry x="184.23" y="860.23" width="920.77" height="279.77" as="geometry" />
         </mxCell>
         <mxCell id="s4_0" value="风险传导分析" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;strokeColor=default;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=#E6E6E6;fontStyle=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="400.03225806451616" y="871.8305415968732" width="489.16129032258067" height="40.35734226689001" as="geometry" />
@@ -131,7 +131,7 @@
           <mxGeometry x="-10" y="1344.5159128978225" width="129.48387096774195" height="40.35734226689001" as="geometry" />
         </mxCell>
         <mxCell id="stage5_box" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 4;strokeColor=#000000;fillColor=none;strokeWidth=1.2;fontSize=16;fontStyle=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="184.2258064516129" y="1187.1222780569515" width="920.7741935483871" height="355.1446119486321" as="geometry" />
+          <mxGeometry x="184.23" y="1187.12" width="920.77" height="342.88" as="geometry" />
         </mxCell>
         <mxCell id="s5_0" value="风险预测模型" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;strokeColor=default;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=#E6E6E6;fontStyle=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="400.03225806451616" y="1199.2294807370185" width="489.16129032258067" height="40.35734226689001" as="geometry" />
