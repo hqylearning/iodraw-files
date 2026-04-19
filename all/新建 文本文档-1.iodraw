@@ -29,10 +29,10 @@
           <mxGeometry x="185" y="260" width="165" height="48" as="geometry" />
         </mxCell>
         <mxCell id="s1_5" value="基于结构化计量分析的风险传导研究" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" parent="1" vertex="1">
-          <mxGeometry x="380" y="260" width="190" height="48" as="geometry" />
+          <mxGeometry x="390" y="260" width="180" height="48" as="geometry" />
         </mxCell>
         <mxCell id="s1_6" value="企业信用风险预测模型" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" parent="1" vertex="1">
-          <mxGeometry x="610" y="260" width="145" height="48" as="geometry" />
+          <mxGeometry x="610" y="260" width="150" height="48" as="geometry" />
         </mxCell>
         <mxCell id="e_s1_1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.2;" parent="1" source="s1_1" target="s1_3" edge="1">
           <mxGeometry relative="1" as="geometry" />
