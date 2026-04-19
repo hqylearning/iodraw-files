@@ -110,13 +110,13 @@
           <mxGeometry x="300" y="985.5" width="340" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s4_1" value="子公司—母公司层级结构建模" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" parent="1" vertex="1">
-          <mxGeometry x="340" y="1050" width="230" height="44" as="geometry" />
+          <mxGeometry x="355" y="1050" width="230" height="44" as="geometry" />
         </mxCell>
         <mxCell id="s4_2" value="风险传导路径识别" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" parent="1" vertex="1">
           <mxGeometry x="365" y="1120" width="230" height="44" as="geometry" />
         </mxCell>
         <mxCell id="s4_3" value="风险聚合与放大效应分析" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" parent="1" vertex="1">
-          <mxGeometry x="335" y="1200" width="270" height="48" as="geometry" />
+          <mxGeometry x="335" y="1200" width="230" height="44" as="geometry" />
         </mxCell>
         <mxCell id="e_s4_1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.2;" parent="1" source="s4_0" target="s4_1" edge="1">
           <mxGeometry relative="1" as="geometry" />
