@@ -91,6 +91,14 @@
         <mxCell id="stage3_box" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 4;strokeColor=#000000;fillColor=none;strokeWidth=1.2;" parent="1" vertex="1">
           <mxGeometry x="150" y="692" width="640" height="360" as="geometry" />
         </mxCell>
+        <mxCell id="1sMB681q1mOf7BqiFLuc-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s3_0" target="1sMB681q1mOf7BqiFLuc-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="810" />
+              <mxPoint x="475" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="s3_0" value="因果识别与机制分析" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="315" y="722" width="310" height="40" as="geometry" />
         </mxCell>
@@ -109,7 +117,7 @@
         <mxCell id="e_s3_1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.2;" parent="1" source="s3_0" target="s3_1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e_s3_2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.2;" parent="1" source="s3_0" target="s3_2" edge="1">
+        <mxCell id="e_s3_2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.2;" parent="1" source="1sMB681q1mOf7BqiFLuc-4" target="s3_2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e_s3_3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.2;" parent="1" source="1sMB681q1mOf7BqiFLuc-4" target="s3_3" edge="1">
@@ -255,7 +263,7 @@
             <mxPoint x="60" y="2160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1sMB681q1mOf7BqiFLuc-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.2;" edge="1" parent="1" source="s3_2" target="s3_1">
+        <mxCell id="1sMB681q1mOf7BqiFLuc-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.2;" edge="1" parent="1" source="1sMB681q1mOf7BqiFLuc-4" target="s3_1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="834" as="sourcePoint" />
             <mxPoint x="465" y="902" as="targetPoint" />
@@ -270,8 +278,20 @@
             <mxPoint x="265" y="902" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="1sMB681q1mOf7BqiFLuc-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.2;" edge="1" parent="1" source="s3_0" target="1sMB681q1mOf7BqiFLuc-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="762" as="sourcePoint" />
+            <mxPoint x="635" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1sMB681q1mOf7BqiFLuc-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.2;" edge="1" parent="1" source="s3_2" target="1sMB681q1mOf7BqiFLuc-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="834" as="sourcePoint" />
+            <mxPoint x="385" y="834" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1sMB681q1mOf7BqiFLuc-4" value="基准回归模型" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" vertex="1" parent="1">
-          <mxGeometry x="220" y="800" width="150" height="48" as="geometry" />
+          <mxGeometry x="395" y="810" width="150" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
