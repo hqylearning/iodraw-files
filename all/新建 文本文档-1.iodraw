@@ -91,7 +91,7 @@
         <mxCell id="stage3_box" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 4;strokeColor=#000000;fillColor=none;strokeWidth=1.2;" parent="1" vertex="1">
           <mxGeometry x="150" y="692" width="640" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="s3_0" value="因果识别与机制分析" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" parent="1" vertex="1">
+        <mxCell id="s3_0" value="因果识别与机制分析" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="315" y="722" width="310" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s3_1" value="基准回归模型" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" parent="1" vertex="1">
