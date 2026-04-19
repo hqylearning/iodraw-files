@@ -56,7 +56,7 @@
           <mxGeometry x="150" y="380" width="640" height="280" as="geometry" />
         </mxCell>
         <mxCell id="s2_0" value="基于子公司遥感数据的企业风险暴露指标构建" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;fillColor=#E6E6E6;" parent="1" vertex="1">
-          <mxGeometry x="300" y="390" width="340" height="40" as="geometry" />
+          <mxGeometry x="300" y="390" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s2_1" value="子公司遥感数据获取与匹配" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="182.5" y="475" width="170" height="48" as="geometry" />
@@ -256,7 +256,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1sMB681q1mOf7BqiFLuc-14" value="稳健性检验" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" vertex="1" parent="1">
-          <mxGeometry x="405" y="862" width="170" height="48" as="geometry" />
+          <mxGeometry x="385" y="862" width="170" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
