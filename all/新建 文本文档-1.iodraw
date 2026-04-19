@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="研究的技术路径" id="0">
-    <mxGraphModel dx="1555" dy="4001" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="2800" math="0" shadow="0">
+    <mxGraphModel dx="1469" dy="3860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="2800" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -86,10 +86,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="stage3_label" value="第三阶段" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;rounded=1;arcSize=12;strokeColor=#7F7F7F;fillColor=#D9D9D9;strokeWidth=1.2;fontSize=16;fontStyle=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="-10" y="709.6376326074819" width="129.48387096774195" height="40.35734226689001" as="geometry" />
+          <mxGeometry x="-10" y="697.1776326074819" width="129.48387096774195" height="40.35734226689001" as="geometry" />
         </mxCell>
         <mxCell id="stage3_box" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 4;strokeColor=#000000;fillColor=none;strokeWidth=1.2;fontSize=16;fontStyle=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="184.2258064516129" y="604.7085427135678" width="920.7741935483871" height="250.21552205471804" as="geometry" />
+          <mxGeometry x="184.23" y="604.71" width="920.77" height="225.29" as="geometry" />
         </mxCell>
         <mxCell id="s3_0" value="因果识别与机制分析" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;strokeColor=default;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=#E6E6E6;fontStyle=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="400.03225806451616" y="612.7800111669459" width="489.16129032258067" height="40.35734226689001" as="geometry" />
