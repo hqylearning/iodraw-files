@@ -92,16 +92,16 @@
           <mxGeometry x="150" y="692" width="640" height="360" as="geometry" />
         </mxCell>
         <mxCell id="s3_0" value="因果识别与机制分析" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#E6E6E6;" parent="1" vertex="1">
-          <mxGeometry x="315" y="722" width="310" height="40" as="geometry" />
+          <mxGeometry x="315" y="700" width="310" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s3_2" value="内生性问题" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" parent="1" vertex="1">
           <mxGeometry x="625" y="800" width="150" height="48" as="geometry" />
         </mxCell>
         <mxCell id="s3_3" value="经营波动机制" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" parent="1" vertex="1">
-          <mxGeometry x="190" y="902" width="150" height="48" as="geometry" />
+          <mxGeometry x="192.5" y="970" width="150" height="48" as="geometry" />
         </mxCell>
         <mxCell id="s3_5" value="风险暴露机制" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" parent="1" vertex="1">
-          <mxGeometry x="590" y="902" width="150" height="48" as="geometry" />
+          <mxGeometry x="530" y="960" width="150" height="48" as="geometry" />
         </mxCell>
         <mxCell id="stage4_label" value="第四阶段" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;rounded=1;arcSize=12;strokeColor=#7F7F7F;fillColor=#D9D9D9;strokeWidth=1.2;" parent="1" vertex="1">
           <mxGeometry x="15" y="1340" width="90" height="40" as="geometry" />
@@ -241,10 +241,10 @@
           <mxGeometry x="205" y="840" width="150" height="48" as="geometry" />
         </mxCell>
         <mxCell id="1sMB681q1mOf7BqiFLuc-4" value="基准回归模型" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" vertex="1" parent="1">
-          <mxGeometry x="585" y="990" width="150" height="48" as="geometry" />
+          <mxGeometry x="390" y="780" width="150" height="48" as="geometry" />
         </mxCell>
         <mxCell id="s3_4" value="融资约束机制" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" parent="1" vertex="1">
-          <mxGeometry x="380" y="910" width="150" height="48" as="geometry" />
+          <mxGeometry x="370" y="960" width="150" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
