@@ -98,7 +98,7 @@
           <mxGeometry x="200" y="802" width="150" height="48" as="geometry" />
         </mxCell>
         <mxCell id="s3_2" value="DID / IV方法" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" parent="1" vertex="1">
-          <mxGeometry x="390" y="802" width="150" height="48" as="geometry" />
+          <mxGeometry x="560" y="810" width="150" height="48" as="geometry" />
         </mxCell>
         <mxCell id="s3_3" value="经营波动机制" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" parent="1" vertex="1">
           <mxGeometry x="190" y="902" width="150" height="48" as="geometry" />
