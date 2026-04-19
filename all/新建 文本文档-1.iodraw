@@ -143,10 +143,10 @@
           <mxGeometry x="355" y="1440" width="230" height="44" as="geometry" />
         </mxCell>
         <mxCell id="s5_3" value="模型性能对比" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" parent="1" vertex="1">
-          <mxGeometry x="385" y="1510" width="170" height="48" as="geometry" />
+          <mxGeometry x="355" y="1510" width="230" height="44" as="geometry" />
         </mxCell>
         <mxCell id="s5_4" value="稳健性检验和扩展研究" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" parent="1" vertex="1">
-          <mxGeometry x="355" y="1580" width="230" height="48" as="geometry" />
+          <mxGeometry x="355" y="1580" width="230" height="44" as="geometry" />
         </mxCell>
         <mxCell id="e_s5_1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.2;" parent="1" source="s5_0" target="s5_1" edge="1">
           <mxGeometry relative="1" as="geometry" />
