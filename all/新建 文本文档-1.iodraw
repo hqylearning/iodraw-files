@@ -98,7 +98,7 @@
           <mxGeometry x="585" y="830" width="150" height="48" as="geometry" />
         </mxCell>
         <mxCell id="s3_3" value="经营波动机制" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" parent="1" vertex="1">
-          <mxGeometry x="192.5" y="970" width="150" height="48" as="geometry" />
+          <mxGeometry x="165" y="930" width="150" height="48" as="geometry" />
         </mxCell>
         <mxCell id="s3_5" value="风险暴露机制" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" parent="1" vertex="1">
           <mxGeometry x="530" y="960" width="150" height="48" as="geometry" />
@@ -241,6 +241,9 @@
           <mxGeometry x="220" y="830" width="150" height="48" as="geometry" />
         </mxCell>
         <mxCell id="1sMB681q1mOf7BqiFLuc-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1sMB681q1mOf7BqiFLuc-4" target="s3_1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1sMB681q1mOf7BqiFLuc-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1sMB681q1mOf7BqiFLuc-4" target="s3_2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1sMB681q1mOf7BqiFLuc-4" value="基准回归模型" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" vertex="1" parent="1">
