@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="研究的技术路径" id="0">
-    <mxGraphModel dx="2192" dy="5053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="2800" math="0" shadow="0">
+    <mxGraphModel dx="2040" dy="4802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="2800" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -101,22 +101,22 @@
           <mxGeometry x="831.6451612903226" y="717.7091010608599" width="244.58064516129033" height="48.428810720268004" as="geometry" />
         </mxCell>
         <mxCell id="stage4_label" value="第四阶段" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;rounded=1;arcSize=12;strokeColor=#7F7F7F;fillColor=#D9D9D9;strokeWidth=1.2;fontSize=16;fontStyle=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="-10" y="986.3266331658292" width="129.48387096774195" height="40.35734226689001" as="geometry" />
+          <mxGeometry x="-10" y="984.3266331658292" width="129.48387096774195" height="40.35734226689001" as="geometry" />
         </mxCell>
         <mxCell id="stage4_box" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 4;strokeColor=#000000;fillColor=none;strokeWidth=1.2;fontSize=16;fontStyle=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="184.2258064516129" y="862.2278056951424" width="920.7741935483871" height="288.55499720826356" as="geometry" />
+          <mxGeometry x="184.2258064516129" y="860.2278056951424" width="920.7741935483871" height="288.55499720826356" as="geometry" />
         </mxCell>
         <mxCell id="s4_0" value="风险传导分析" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;strokeColor=default;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=#E6E6E6;fontStyle=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="400.03225806451616" y="873.8305415968732" width="489.16129032258067" height="40.35734226689001" as="geometry" />
+          <mxGeometry x="400.03225806451616" y="871.8305415968732" width="489.16129032258067" height="40.35734226689001" as="geometry" />
         </mxCell>
         <mxCell id="s4_1" value="子公司—母公司层级结构建模" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;fontSize=16;fontStyle=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="479.16129032258067" y="940.9246231155779" width="330.9032258064516" height="44.39307649357901" as="geometry" />
+          <mxGeometry x="479.16129032258067" y="938.9246231155779" width="330.9032258064516" height="44.39307649357901" as="geometry" />
         </mxCell>
         <mxCell id="s4_2" value="风险传导路径识别" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;fontSize=16;fontStyle=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="479.16129032258067" y="1010.5410385259631" width="330.9032258064516" height="44.39307649357901" as="geometry" />
+          <mxGeometry x="479.16129032258067" y="1008.5410385259631" width="330.9032258064516" height="44.39307649357901" as="geometry" />
         </mxCell>
         <mxCell id="s4_3" value="风险聚合与放大效应分析" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;fontSize=16;fontStyle=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="479.16129032258067" y="1080.1574539363485" width="330.9032258064516" height="44.39307649357901" as="geometry" />
+          <mxGeometry x="479.16129032258067" y="1078.1574539363485" width="330.9032258064516" height="44.39307649357901" as="geometry" />
         </mxCell>
         <mxCell id="e_s4_1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.2;fontSize=16;fontStyle=1" parent="1" source="s4_0" target="s4_1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -128,25 +128,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="stage5_label" value="第五阶段" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;rounded=1;arcSize=12;strokeColor=#7F7F7F;fillColor=#D9D9D9;strokeWidth=1.2;fontSize=16;fontStyle=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="-10" y="1346.5159128978225" width="129.48387096774195" height="40.35734226689001" as="geometry" />
+          <mxGeometry x="-10" y="1344.5159128978225" width="129.48387096774195" height="40.35734226689001" as="geometry" />
         </mxCell>
         <mxCell id="stage5_box" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 4;strokeColor=#000000;fillColor=none;strokeWidth=1.2;fontSize=16;fontStyle=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="184.2258064516129" y="1189.1222780569515" width="920.7741935483871" height="355.1446119486321" as="geometry" />
+          <mxGeometry x="184.2258064516129" y="1187.1222780569515" width="920.7741935483871" height="355.1446119486321" as="geometry" />
         </mxCell>
         <mxCell id="s5_0" value="风险预测模型" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;strokeColor=default;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=#E6E6E6;fontStyle=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="400.03225806451616" y="1201.2294807370185" width="489.16129032258067" height="40.35734226689001" as="geometry" />
+          <mxGeometry x="400.03225806451616" y="1199.2294807370185" width="489.16129032258067" height="40.35734226689001" as="geometry" />
         </mxCell>
         <mxCell id="s5_1" value="样本构建与数据处理" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;fontSize=16;fontStyle=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="479.16129032258067" y="1271.8548297040759" width="330.9032258064516" height="44.39307649357901" as="geometry" />
+          <mxGeometry x="479.16129032258067" y="1269.8548297040759" width="330.9032258064516" height="44.39307649357901" as="geometry" />
         </mxCell>
         <mxCell id="s5_2" value="Crossformer模型构建" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;fontSize=16;fontStyle=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="479.16129032258067" y="1339.4533780011168" width="330.9032258064516" height="44.39307649357901" as="geometry" />
+          <mxGeometry x="479.16129032258067" y="1337.4533780011168" width="330.9032258064516" height="44.39307649357901" as="geometry" />
         </mxCell>
         <mxCell id="s5_3" value="模型性能对比" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;fontSize=16;fontStyle=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="479.16129032258067" y="1406.0429927414853" width="330.9032258064516" height="44.39307649357901" as="geometry" />
+          <mxGeometry x="479.16129032258067" y="1404.0429927414853" width="330.9032258064516" height="44.39307649357901" as="geometry" />
         </mxCell>
         <mxCell id="s5_4" value="稳健性检验和扩展研究" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;fontSize=16;fontStyle=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="479.16129032258067" y="1473.641541038526" width="330.9032258064516" height="44.39307649357901" as="geometry" />
+          <mxGeometry x="479.16129032258067" y="1471.641541038526" width="330.9032258064516" height="44.39307649357901" as="geometry" />
         </mxCell>
         <mxCell id="e_s5_1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.2;fontSize=16;fontStyle=1" parent="1" source="s5_0" target="s5_1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -161,22 +161,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="stage6_label" value="第六阶段" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;rounded=1;arcSize=12;strokeColor=#7F7F7F;fillColor=#D9D9D9;strokeWidth=1.2;fontSize=16;fontStyle=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="-10" y="1639.106644332775" width="129.48387096774195" height="40.35734226689001" as="geometry" />
+          <mxGeometry x="-10" y="1637.106644332775" width="129.48387096774195" height="40.35734226689001" as="geometry" />
         </mxCell>
         <mxCell id="stage6_box" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 4;strokeColor=#000000;fillColor=none;strokeWidth=1.2;fontSize=16;fontStyle=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="184.2258064516129" y="1578.57063093244" width="920.7741935483871" height="161.42936906756003" as="geometry" />
+          <mxGeometry x="184.2258064516129" y="1576.57063093244" width="920.7741935483871" height="161.42936906756003" as="geometry" />
         </mxCell>
         <mxCell id="s6_0" value="政策建议" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;strokeColor=default;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=#E6E6E6;fontStyle=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="522.3225806451613" y="1592.6957007258516" width="244.58064516129033" height="40.35734226689001" as="geometry" />
+          <mxGeometry x="522.3225806451613" y="1590.6957007258516" width="244.58064516129033" height="40.35734226689001" as="geometry" />
         </mxCell>
         <mxCell id="s6_1" value="企业风险管理建议" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;fontSize=16;fontStyle=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="205.80645161290323" y="1669.3746510329424" width="266.16129032258067" height="48.428810720268004" as="geometry" />
+          <mxGeometry x="205.80645161290323" y="1667.3746510329424" width="266.16129032258067" height="48.428810720268004" as="geometry" />
         </mxCell>
         <mxCell id="s6_2" value="银行机构层面风险防范建议" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;fontSize=16;fontStyle=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="511.5322580645161" y="1669.3746510329424" width="266.16129032258067" height="48.428810720268004" as="geometry" />
+          <mxGeometry x="511.5322580645161" y="1667.3746510329424" width="266.16129032258067" height="48.428810720268004" as="geometry" />
         </mxCell>
         <mxCell id="s6_3" value="监管部门层面风险防范建议" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;fontSize=16;fontStyle=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="810.0645161290323" y="1669.3746510329424" width="266.16129032258067" height="48.428810720268004" as="geometry" />
+          <mxGeometry x="810.0645161290323" y="1667.3746510329424" width="266.16129032258067" height="48.428810720268004" as="geometry" />
         </mxCell>
         <mxCell id="e_s6_1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.2;fontSize=16;fontStyle=1" parent="1" source="s6_0" target="s6_1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -206,8 +206,8 @@
         </mxCell>
         <mxCell id="main_6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2.2;fontSize=16;fontStyle=1" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="643.5914193548388" y="1544.266890005583" as="sourcePoint" />
-            <mxPoint x="643.5914193548388" y="1578.57063093244" as="targetPoint" />
+            <mxPoint x="643.5914193548388" y="1542.266890005583" as="sourcePoint" />
+            <mxPoint x="643.5914193548388" y="1576.57063093244" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="left_1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.8;fontSize=16;fontStyle=1" parent="1" source="label_stage" target="stage1_label" edge="1">
@@ -227,14 +227,14 @@
         </mxCell>
         <mxCell id="left_5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;fontStyle=1" parent="1" edge="1" target="stage5_label" source="stage4_label">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="54.741935483870975" y="1231.497487437186" as="sourcePoint" />
-            <mxPoint x="54.741935483870975" y="1604.8029034059184" as="targetPoint" />
+            <mxPoint x="54.741935483870975" y="1229.497487437186" as="sourcePoint" />
+            <mxPoint x="54.741935483870975" y="1602.8029034059184" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="left_6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;fontStyle=1" parent="1" edge="1" target="stage6_label" source="stage5_label">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="54.16645161290323" y="1685.5175879396986" as="sourcePoint" />
-            <mxPoint x="54.16645161290323" y="2099.180346175321" as="targetPoint" />
+            <mxPoint x="54.16645161290323" y="1683.5175879396986" as="sourcePoint" />
+            <mxPoint x="54.16645161290323" y="2097.180346175321" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1sMB681q1mOf7BqiFLuc-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;fontStyle=1" edge="1" parent="1" source="s3_1" target="1sMB681q1mOf7BqiFLuc-14">
