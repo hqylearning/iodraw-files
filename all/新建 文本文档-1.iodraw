@@ -62,10 +62,10 @@
           <mxGeometry x="190" y="490" width="170" height="48" as="geometry" />
         </mxCell>
         <mxCell id="s2_2" value="多维遥感特征提取" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" parent="1" vertex="1">
-          <mxGeometry x="620" y="490" width="150" height="48" as="geometry" />
+          <mxGeometry x="590" y="490" width="150" height="48" as="geometry" />
         </mxCell>
         <mxCell id="s2_3" value="风险暴露指标构建&#xa;Level / Distribution / Shock Exposure" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" parent="1" vertex="1">
-          <mxGeometry x="360" y="538" width="230" height="56" as="geometry" />
+          <mxGeometry x="360" y="550" width="230" height="44" as="geometry" />
         </mxCell>
         <mxCell id="s2_4" value="指标有效性检验" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" parent="1" vertex="1">
           <mxGeometry x="400" y="680" width="150" height="40" as="geometry" />
