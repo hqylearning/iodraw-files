@@ -225,20 +225,15 @@
             <mxPoint x="60" y="1300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="left_5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.517;entryY=0.165;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="stage5_label" source="stage4_label">
+        <mxCell id="left_5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1" target="stage5_label" source="stage4_label">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="60" y="1340" as="sourcePoint" />
             <mxPoint x="60" y="1710" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="60" y="1423" />
-              <mxPoint x="61" y="1423" />
-              <mxPoint x="61" y="1710" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="left_6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.8;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="60" y="1790" as="sourcePoint" />
+            <mxPoint x="60" y="1750" as="sourcePoint" />
             <mxPoint x="60" y="2160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
