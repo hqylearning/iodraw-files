@@ -59,13 +59,13 @@
           <mxGeometry x="305" y="390" width="340" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s2_1" value="子公司遥感数据获取与匹配" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="170" y="490" width="170" height="48" as="geometry" />
+          <mxGeometry x="190" y="490" width="170" height="48" as="geometry" />
         </mxCell>
         <mxCell id="s2_2" value="多维遥感特征提取" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" parent="1" vertex="1">
           <mxGeometry x="620" y="490" width="150" height="48" as="geometry" />
         </mxCell>
         <mxCell id="s2_3" value="风险暴露指标构建&#xa;Level / Distribution / Shock Exposure" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" parent="1" vertex="1">
-          <mxGeometry x="325" y="550" width="265" height="56" as="geometry" />
+          <mxGeometry x="360" y="538" width="230" height="56" as="geometry" />
         </mxCell>
         <mxCell id="s2_4" value="指标有效性检验" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;" parent="1" vertex="1">
           <mxGeometry x="400" y="680" width="150" height="40" as="geometry" />
