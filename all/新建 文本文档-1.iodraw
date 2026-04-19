@@ -131,7 +131,7 @@
           <mxGeometry x="15" y="1750" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="stage5_box" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 4;strokeColor=#000000;fillColor=none;strokeWidth=1.2;" parent="1" vertex="1">
-          <mxGeometry x="150" y="1298" width="640" height="436" as="geometry" />
+          <mxGeometry x="150" y="1298" width="640" height="352" as="geometry" />
         </mxCell>
         <mxCell id="s5_0" value="风险预测模型" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="300" y="1310" width="340" height="40" as="geometry" />
@@ -206,8 +206,8 @@
         </mxCell>
         <mxCell id="main_6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=2.2;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="470" y="1732.9999999999995" as="sourcePoint" />
-            <mxPoint x="470" y="1767" as="targetPoint" />
+            <mxPoint x="469.29" y="1649.9999999999995" as="sourcePoint" />
+            <mxPoint x="469.29" y="1684" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="left_1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeWidth=1.8;" parent="1" source="label_stage" target="stage1_label" edge="1">
