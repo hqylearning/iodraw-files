@@ -131,7 +131,7 @@
           <mxGeometry x="15" y="1750" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="stage5_box" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 4;strokeColor=#000000;fillColor=none;strokeWidth=1.2;" parent="1" vertex="1">
-          <mxGeometry x="150" y="1384" width="640" height="390" as="geometry" />
+          <mxGeometry x="150" y="1384" width="640" height="436" as="geometry" />
         </mxCell>
         <mxCell id="s5_0" value="风险预测模型" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=1.2;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="300" y="1414" width="340" height="40" as="geometry" />
